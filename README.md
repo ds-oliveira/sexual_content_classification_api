@@ -12,7 +12,7 @@ Hi guys, a lot of people on the internet are looking for some way to analyze ima
 - Python 3 Installed
 - Pip Installed
 
-## Let's get our hands dirty!
+# Let's get our hands dirty!
 
 ### Creating the directory structure
 - Open your favorite terminal.
